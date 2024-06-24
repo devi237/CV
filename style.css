@@ -1,23 +1,41 @@
 body{
-    background-color:lavender;
-    margin: 70px;
- }
- h1{
-    color: rgb(20, 0, 135);
- }
- p{
-    color: rgb(0, 0, 0);
- }
- #t{
-    color: red;
- }
- h1{
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
-   font-size: 25px;
-  
-   border-radius: 10px;
- }
- .t1{
-   text-align: center;
+   background-color:rgb(255, 255, 255);
+   margin: 70px;
+}
+h1{
+   color:rgb(2, 2, 182);
+}
+p{
+   color: rgb(0, 0, 0);
+}
 
- }
+h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+ 
+  border-radius: 10px;
+
+}
+#img{
+   margin-left: 100%;
+}
+#ob{
+   margin-left: 50%;
+}
+
+
+aside{
+  float: left;
+   
+}
+article{
+   width: 70%;
+   float: right;
+  
+}
+section{
+   
+}
+hr{
+   color: blue;
+}
